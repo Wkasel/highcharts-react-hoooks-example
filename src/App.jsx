@@ -2,8 +2,8 @@ import Highcharts from "highcharts";
 import HighchartsReact from "highcharts-react-official";
 import React, { useState } from "react";
 import styled from "styled-components";
-import "./style.css";
-import "./tomorrow.css";
+// import "./style.css";
+// import "./tomorrow.css";
 
 const data = [
   [1220832000000, 22.56],
